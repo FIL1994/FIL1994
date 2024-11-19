@@ -1,5 +1,7 @@
 ## Hi there, I'm Philip Van Raalte 👋
 
+[![](https://visitcount.itsvg.in/api?id=FIL1994&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 <!--
 **FIL1994/FIL1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
