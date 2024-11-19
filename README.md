@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Philip Van Raalte 👋
 
 <!--
 **FIL1994/FIL1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
